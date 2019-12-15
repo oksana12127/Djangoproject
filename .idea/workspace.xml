@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b952b6f-cabe-4e5b-9e92-2c73d5af9dc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6zWdv1VfdKhtEcgUdYQJgYhBm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangogirls" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b952b6f-cabe-4e5b-9e92-2c73d5af9dc6" name="Default Changelist" comment="" />
+      <created>1572795365170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572795365170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="155" key="FileChooserDialogImpl" timestamp="1576427140374">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="508" y="155" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1576427140374" />
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575794321803">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1575794321803" />
+    <state x="344" y="206" width="730" height="528" key="find.popup" timestamp="1575865532411">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="344" y="206" width="730" height="528" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1575865532411" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/djangoshop/djangoshop/urls.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
