@@ -3,5 +3,6 @@
 __pycache__
 eConEnv
 db.sqlite3
-/static
+static_in_dev
 .DS_Store
+.idea
